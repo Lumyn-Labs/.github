@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/255f7d60-1b50-4f69-b2fc-c25510cd2e1e" style="width:100%; height:auto;" alt="Lumyn Labs Logo">
+<img src="https://github.com/user-attachments/assets/57bb7cd7-07fb-4111-b76b-a14beaab14dd" style="width:100%; height:auto;" alt="Lumyn Labs Logo">
 
 # **Hey there!**
 
