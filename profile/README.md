@@ -14,8 +14,7 @@ Check out our documentation website: https://docs.lumynlabs.com - This is where 
 
 **Explore our GitHub repositories**:
 
-* **[ConnectorX Firmware Starter](https://github.com/Lumyn-Labs/ConnectorX-Fimware-Starter)**
-* **[ConnectorX Animate Firmware Starter](https://github.com/Lumyn-Labs/ConnectorX-Animate-Fimware-Starter)**
+* **[Releases](https://github.com/Lumyn-Labs/Releases)**
 * **[Official Module Repo](https://github.com/Lumyn-Labs/modules)**
 
 We're always looking for ways to improve, so don't hesitate to reach out with questions, suggestions, or feedback! We can't wait to see what you build!
